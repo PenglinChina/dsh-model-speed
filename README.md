@@ -20,7 +20,7 @@ dsh plugin --profile web add dsh-model-speed
 Pinning a Git commit is also supported:
 
 ```bash
-dsh plugin --profile web add git+https://github.com/YOUR_NAME/dsh-model-speed.git#<40-char-commit>
+dsh plugin --profile web add git+https://github.com/PenglinChina/dsh-model-speed.git#<40-char-commit>
 ```
 
 For a local checkout, point DSH at the directory (Plugins → Add plugin, or the CLI with the absolute path).

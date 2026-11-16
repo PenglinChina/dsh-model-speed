@@ -4,6 +4,11 @@
   "type": "module",
   "description": "Live generation speed and token usage of the models configured in this DSH profile — one minimal dock row, no extra panels.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PenglinChina/dsh-model-speed.git"
+  },
+  "homepage": "https://github.com/PenglinChina/dsh-model-speed#readme",
   "engines": {
     "dsh": ">=0.2.0"
   },
