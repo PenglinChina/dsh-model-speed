@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Model speed",
+    "description": "Shows the measured generation speed of the models configured in this profile, with optional on-demand benchmarks."
+  }
+}
